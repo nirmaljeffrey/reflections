@@ -1,22 +1,37 @@
 What happens when you initialize a repository? Why do you need to do it?
+
 Ans: When I initialise a repository in my directory I can use git commands such as commit, merge,branch, log, status.etc
+____________________________________
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
 Ans: the staging is very useful while making a commit in a git repository. It is used to stage a group of edited files in a commit from the files present in working directory.
+_________________________________________
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
 Ans: I can use staging area to commit a logically related files at the same time. without this staging area i cant have a commit per logic change.
+___________________________________________
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-Branches are very helpul for trying new concepts in a projects without disturbing the master branch of the project.
+
+Ans: Branches are very helpul for trying new concepts in a projects without disturbing the master branch of the project.
+______________________________________
 
 How do the diagrams help you visualize the branch structure?
 
+Ans: The diagrams are helpful in understanding the reachability of the commits in repository
+_______________________________
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+Ans: The new feature which we are testing in a branch is added to master branch when its completely functional.This merge option is a powerful tool for a developer to deploy new features in his existing codebase easily.
+
+_______________________________
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
