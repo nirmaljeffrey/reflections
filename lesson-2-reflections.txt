@@ -3,12 +3,15 @@ Ans: When I initialise a repository in my directory I can use git commands such 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+Ans: the staging is very useful while making a commit in a git repository. It is used to stage a group of edited files in a commit from the files present in working directory.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Ans: I can use staging area to commit a logically related files at the same time. without this staging area i cant have a commit per logic change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches are very helpul for trying new concepts in a projects without disturbing the master branch of the project.
 
 How do the diagrams help you visualize the branch structure?
 
